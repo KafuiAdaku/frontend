@@ -1,1 +1,0 @@
-# Complete Static Homepage
